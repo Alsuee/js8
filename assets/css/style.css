@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1200px;
+
+}
+.boxWide {
+    position: relative;
+    margin: 5px 10x;
+  }
+  
+  .box5 {
+    top: 100px;
+    left: 100px;
+    height: 30px;
+    width: 30px;
+    border-radius: 3px;
+    position: absolute;
+    background: #d31635;
+  }
